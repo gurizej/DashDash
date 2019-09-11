@@ -1,2 +1,2 @@
 # DashDash
-Endless runner game
+Endless runner game made with Unity3D
